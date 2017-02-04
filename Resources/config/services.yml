@@ -1,0 +1,4 @@
+services:
+#    simple_cms.example:
+#        class: TuCompu\simpleCmsBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

@@ -6,7 +6,7 @@
     "authors" : [{
         "name" : "Jairofg12",
         "email" : "jairofdezvega@gmail.com",
-        "homepage": "tucompualdia.net"
+        "homepage": "http://tucompualdia.net"
     }],
     "keywords" : [
         "cms",
@@ -25,6 +25,11 @@
     "autoload" : {
         "psr-4" : {
             "TuCompu\\simpleCmsBundle\\" : "TuCompu/simpleCmsBundle"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
         }
     }
 }

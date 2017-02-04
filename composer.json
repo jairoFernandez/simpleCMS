@@ -18,7 +18,6 @@
         "MIT"
     ],
     "minimum-stability": "dev",
-    "prefer-stable": false,
     "require" : {
         "php": ">=5.4",
         "symfony/framework-bundle": ">=2.2",

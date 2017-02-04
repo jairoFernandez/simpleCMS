@@ -24,7 +24,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "TuCompu\\simpleCmsBundle\\" : "TuCompu/simpleCmsBundle"
+            "tucompu\\simplecms\\" : "TuCompu/simpleCmsBundle"
         }
     }
 }

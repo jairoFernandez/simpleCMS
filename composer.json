@@ -1,5 +1,5 @@
 {
-    "name" : "TuCompu/simpleCms",
+    "name" : "tucompu/simple-cms",
     "version": "v0.0.1",
     "description" : "This is a simple, simple cms",
     "type" : "symfony-bundle",
@@ -24,7 +24,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "tucompu\\simplecms\\" : "TuCompu/simpleCmsBundle"
+            "TuCompu\\simpleCmsBundle\\" : "TuCompu/simpleCmsBundle"
         }
     }
 }

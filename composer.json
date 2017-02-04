@@ -1,0 +1,31 @@
+{
+    "name" : "TuCompu/simpleCms",
+    "version": "v0.0.1",
+    "description" : "This is a simple, simple cms",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Jairofg12",
+        "email" : "jairofdezvega@gmail.com",
+        "homepage": "tucompualdia.net"
+    }],
+    "keywords" : [
+        "cms",
+        "pages",
+        "easy",
+        "bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+        "php": ">=5.4",
+        "symfony/framework-bundle": ">=2.2",
+        "symfony/symfony": ">=2.2",
+        //Add your require libraries here...
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Company\\NameBundle\\" : ""
+        }
+    }
+}

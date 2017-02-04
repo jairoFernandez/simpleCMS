@@ -21,11 +21,10 @@
         "php": ">=5.4",
         "symfony/framework-bundle": ">=2.2",
         "symfony/symfony": ">=2.2"
-        //Add your require libraries here...
     },
     "autoload" : {
         "psr-4" : {
-            "Company\\NameBundle\\" : ""
+            "TuCompu\\simpleCmsBundle\\" : "TuCompu/simpleCmsBundle"
         }
     }
 }
